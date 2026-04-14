@@ -1,5 +1,7 @@
 # L-System Explorer
 
+![L-System Explorer](lsystems.jpeg)
+
 An interactive Java Swing explorer for Lindenmayer Systems featuring 12 preset grammars, an editable rule editor, generation-by-generation animation, and depth-coloured turtle graphics rendering — from Koch snowflakes to stochastic ferns.
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange) ![Swing](https://img.shields.io/badge/UI-Java%20Swing-blue) ![License](https://img.shields.io/badge/license-MIT-green)
